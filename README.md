@@ -6,4 +6,4 @@ This is my super cool CSSI project. It does things and stuff.
 
 ## My GitHub Section
 
-This section was added on GitHub
+This section was added on GitHub and edited locally
